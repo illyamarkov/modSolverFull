@@ -1,5 +1,5 @@
 # modSolverFull
-This solved mod questions, however it is more complex than that.
+This solves mod questions, however it is more complex than that.
 
 It actually gives a step-by-step result on solving copmplex mod questions...
 
